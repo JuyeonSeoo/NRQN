@@ -1,4 +1,4 @@
-# NRQN (Numerical Reconstruction Quality-optimized deep compression Network)
+# Numerical Reconstruction Quality-optimized deep compression Network
 Repository of the paper "Numerical Reconstruction Quality-Optimized Full-Complex Hologram Compression using Deep Network"
 
 ## Introduction
